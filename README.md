@@ -88,3 +88,7 @@ We need to be able to filter our list of candidates based on the language we are
    - `language_screening(candidates, "Python")`
    - `language_screening(candidates, "GO")`
    - `language_screening(candidates, "javascript")`
+
+
+
+Brad Mortensen -- Init
