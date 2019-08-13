@@ -91,4 +91,4 @@ We need to be able to filter our list of candidates based on the language we are
 
 
 
-Brad Mortensen -- Init
+Brad Mortensen -- Inits
