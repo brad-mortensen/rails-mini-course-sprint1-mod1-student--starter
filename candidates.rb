@@ -16,7 +16,7 @@ average_age(candidates) # 26.333333333333332
 
 
 def language_screening(people, language)
-  people.select {|person| person[:languages].includes(language)}
+  people.select {|person| person[:languages].includes?(language)}
 end
 
 
